@@ -1,2 +1,2 @@
 # bibtex
-Bibliography files
+My shared bibtex bibliography files
